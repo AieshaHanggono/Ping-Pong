@@ -40,7 +40,6 @@ finish = False
 clock = time.Clock()
 FPS = 60
 
-# TIMER
 start_time = time.get_ticks()
 
 racket1 = Player('line.png', 30, 200, 4, 50, 150)
